@@ -1,0 +1,3 @@
+Nome: Sanclei
+Curso: Python Aplicado
+Turma: Pós Técnico
